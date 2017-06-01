@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Shaders/Grid.shader">
+    <Files>
+      <File FileName="Assets/Scripts/LightATest.cs" Line="144" Column="88" />
+      <File FileName="Assets/Scripts/LightAWrapper.cs" Line="32" Column="8" />
+      <File FileName="Assets/Scripts/moveSphere.cs" Line="14" Column="9" />
+      <File FileName="Assets/Scripts/Fly.cs" Line="30" Column="5" />
+      <File FileName="Assets/Shaders/Grid.shader" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
